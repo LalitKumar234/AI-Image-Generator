@@ -38,7 +38,7 @@ function App() {
         <input type="text" placeholder="Type descriptive prompt"
           value={prompt}
           onChange={(e) => setPrompt(e.target.value)} />
-        <button className='generate-btn' onClick={handleGenerate}>Genarate</button>
+        <button className='generate-btn' onClick={handleGenerate}>Generate</button>
       </div>
       <h4>Recently saved Images</h4>
       <div className="imageGallery">

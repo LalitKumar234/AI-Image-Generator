@@ -1,7 +1,6 @@
 # AI-Image-Generator
 AI-Powered image generator in React and Node.Js using Open AI API 
 
-Read the blog if you want to follow along https://frontendedy.io/blog/image-generator-in-node-js-and-react-using-openai-api 
 
 Make sure to follow @frontend_edy on instagram for more such amazing project
 
